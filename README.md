@@ -1,0 +1,1 @@
+The repo for personal homework for the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) .
